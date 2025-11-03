@@ -14,7 +14,6 @@ The Daughter of Mother India! (In English)
 ಗಂಧದ ಚಂದದ ಹೊನ್ನಿನ ಗಣಿಯೆ;
 ರಾಘವ ಮಧುಸೂಧನರವತರಿಸಿದ
 ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ!
-ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!
 
 ಜನನಿಯ ಜೋಗುಳ ವೇದದ ಘೋಷ,
 ಜನನಿಗೆ ಜೀವವು ನಿನ್ನಾವೇಶ!
@@ -22,7 +21,6 @@ The Daughter of Mother India! (In English)
 ನಿನ್ನಯ ಕೊರಳಿನ ಮಾಲೆ!
 ಕಪಿಲ ಪತಂಜಲ ಗೌತಮ ಜಿನನುತ,
 ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ!
-ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!
 
 ಶಂಕರ ರಾಮಾನುಜ ವಿದ್ಯಾರಣ್ಯ,
 ಬಸವೇಶ್ವರ ಮಧ್ವರ ದಿವ್ಯಾರಣ್ಯ.
@@ -32,7 +30,6 @@ The Daughter of Mother India! (In English)
 ಕವಿಕೋಗಿಲೆಗಳ ಪುಣ್ಯಾರಾಮ.
 ನಾನಕ ರಮಾನಂದ ಕಬೀರರ
 ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,
-ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.
 
 ತೈಲಪ ಹೊಯ್ಸಳರಾಳಿದ ನಾಡೆ,
 ಡಂಕಣ ಜಕಣರ ನೆಚ್ಚಿನ ಬೀಡೆ.
@@ -40,7 +37,6 @@ The Daughter of Mother India! (In English)
 ಕಾವೇರಿಯ ವರ ರಂಗ.
 ಚೈತನ್ಯ ಪರಮಹಂಸ ವಿವೇಕರ
 ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,
-ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ.
 
 ಸರ್ವಜನಾಂಗದ ಶಾಂತಿಯ ತೋಟ,
 ರಸಿಕರ ಕಂಗಳ ಸೆಳೆಯುವ ನೋಟ!
@@ -62,7 +58,7 @@ Bhūdēviya makuṭada navamaṇiye,
 gandhada candada honnina gaṇiye;
 rāghava madhusūdhanaravatarisida
 bhārata jananiya tanujāte!
-Jaya hē karnāṭaka māte!
+
 
 Jananiya jōguḷa vēdada ghōṣa,
 jananige jīvavu ninnāvēśa!
@@ -70,7 +66,7 @@ Hasurina girigaḷa sālē,
 ninnaya koraḷina māle!
 Kapila patan̄jala gautama jinanuta,
 bhārata jananiya tanujāte!
-Jaya hē karnāṭaka māte!
+
 
 Śaṅkara rāmānuja vidyāraṇya,
 basavēśvara madhvara divyāraṇya.
@@ -80,7 +76,6 @@ Kumāravyāsara maṅgaḷadhāma,
 kavikōgilegaḷa puṇyārāma.
 Nānaka ramānanda kabīrara
 bhārata jananiya tanujāte,
-jaya hē karnāṭaka māte.
 
 Tailapa hoysaḷarāḷida nāḍe,
 ḍaṅkaṇa jakaṇara neccina bīḍe.
@@ -88,7 +83,7 @@ Kr̥ṣṇa śarāvati tuṅgā,
 kāvēriya vara raṅga.
 Caitan'ya paramahansa vivēkara
 bhārata jananiya tanujāte,
-jaya hē karnāṭaka māte.
+
 
 Sarvajanāṅgada śāntiya tōṭa,
 rasikara kaṅgaḷa seḷeyuva nōṭa!
