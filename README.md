@@ -10,7 +10,6 @@ The Daughter of Mother India! (In English)
 ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!
 ಜಯ ಸುಂದರ ನದಿ ವನಗಳ ನಾಡೇ,
 ಜಯ ಹೇ ರಸಋಷಿಗಳ ಬೀಡೆ!
-
 ಭೂದೇವಿಯ ಮಕುಟದ ನವಮಣಿಯೆ,
 ಗಂಧದ ಚಂದದ ಹೊನ್ನಿನ ಗಣಿಯೆ;
 ರಾಘವ ಮಧುಸೂಧನರವತರಿಸಿದ
@@ -54,14 +53,11 @@ The Daughter of Mother India! (In English)
 ಕನ್ನಡ ತಾಯಿಯ ಮಕ್ಕಳ ದೇಹ!
 ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,
 ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!
-ಜಯ ಸುಂದರ ನದಿ ವನಗಳ ನಾಡೆ,
-ಜಯ ಹೇ ರಸಋಷಿಗಳ ಬೀಡೆ!
 
 Jaya bhārata jananiya tanujāte,
 jaya hē karnāṭaka māte
 Jaya sundara nadi vanagaḷa nāḍē,
 jaya hē rasa'r̥ṣigaḷa bīḍe!
-
 Bhūdēviya makuṭada navamaṇiye,
 gandhada candada honnina gaṇiye;
 rāghava madhusūdhanaravatarisida
@@ -100,10 +96,7 @@ Hindū kraista musalmāna,
 pārasika jainarudyāna
 janakana hōluva doregaḷa dhāma,
 gāyaka vaiṇikarārāma.
-
 Kannaḍa nuḍi kuṇidāḍuva gēha!
 Kannaḍa tāyiya makkaḷa dēha!
 Bhārata jananiya tanujāte,
 jaya hē karnāṭaka māte!
-Jaya sundara nadi vanagaḷa nāḍe,
-jaya hē rasa'r̥ṣigaḷa bīḍe!
