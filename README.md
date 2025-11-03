@@ -5,6 +5,7 @@ Naadageethe
 (in Kannada)	Jaya bhārata jananiya tanujāte
 (Latin Transliteration)	Victory to you Mother Karnataka,
 The Daughter of Mother India! (In English)
+
 ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ,
 ಜಯ ಹೇ ಕರ್ನಾಟಕ ಮಾತೆ!
 ಜಯ ಸುಂದರ ನದಿ ವನಗಳ ನಾಡೇ,
